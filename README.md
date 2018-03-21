@@ -9,7 +9,7 @@ The greatest common divisor is the biggest number that will divide into (that is
 ## Arithmetic and Geometric Progression
 Arithmetic progression is a sequence of numbers, thats difference is constant within the sequence; for example 1, 2, 3, 4 is an Arithmetic progression because the numbers are always 1 apart. Secondly, we have Geometric progression. This is a sequence where instead of the difference being constantly the same between each number, each number in the sequence is multiplied to get to the next number. For example 1, 4, 16, 64, 256; each number is multiplied by 4. 
 
-#### Algorithm to calculate Arithmetic and Geometric Progression.
+### Algorithm to calculate Arithmetic and Geometric Progression.
 #include <iostream>
 	
 
