@@ -35,6 +35,20 @@ Arithmetic progression is a sequence of numbers, thats difference is constant wi
 ## Conditional Probability 
 Lets take the example that you have been asked to give the probabilty of a 5 being rolled on a fair die. There is only one side of the die that is 5, and there are only 6 possible outcomes which means the probability of rolling a 5 is 1/6. Additionally, if you had been told the number that the number rolled was an odd number, the probability of you rolling a 5 would now be 1/3; as there are only 3 odd numbers on a die. The revised probabilty that an event A has occured, given the information that an additional event B has definitely occured, is called Conditional Probability. The reason employed within this example can be explained to yield the formula in the following definition:
 
+![](https://i.gyazo.com/3aa9d793656a22f6ed6e8c6a1ca1aa7f.png)
+
+#### What is the probability of having 7 when rolling two die?
+There are 36 possible outcomes when it comes to rolling two die. For each of the possible outcomes add the two numbers up and count how many times it is equal to seven; after doing this you will realize there are 6 times, both numbers are equal to 7. This being said if there are 6 outcomes that add up to 7, and there are 36 possible outcomes the probability of you rolling a 7 on two dic will be 6/36, simplified down to 1/6.
+
+#### What is the probability of having having at least one 2 when rolling two dice?
+There are 36 possible outcomes when it comes to rolling two dice.. First count how many times after I roll the two die that at least one of the two number would be a 2. There is 11 possible outcomes that will contain at least one 2. Now we know this we can say that the possibility of rolling two die and one of them being 2 is 11/36.
+
+#### What is the probability of having 7 after rolling a 2?
+There are 6 possible outcomes when it comes to rolling a die. If i already have a 2 and i need to get to seven i will need to count how many of the 6 outcomes, when added onto 2 will make 7. There is only one outcome that will help equal 7 and this is 5. Knowing this the possibility of rolling of having 7 after i have just roled a 2 is 1/6.
+
+#### What is the probability of having a 7, knowing for sure that I will roll a 2?
+There are 6 possible outcomes when it comes to rolling two dice. If I already know i will roll a 2.
+
 
 
 
