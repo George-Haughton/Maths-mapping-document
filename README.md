@@ -33,6 +33,7 @@ Arithmetic progression is a sequence of numbers, thats difference is constant wi
 	  return 0;
 	
 ## Conditional Probability 
+Lets take the example that you have been asked to give the probabilty of a 5 being rolled on a fair die. There is only one side of the die that is 5, and there are only 6 possible outcomes which means the probability of rolling a 5 is 1/6. Additionally, if you had been told the number that the number rolled was an odd number, the probability of you rolling a 5 would now be 1/3; as there are only 3 odd numbers on a die. The revised probabilty that an event A has occured, given the information that an additional event B has definitely occured, is called Conditional Probability. The reason employed within this example can be explained to yield the formula in the following definition:
 
 
 
