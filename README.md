@@ -49,12 +49,25 @@ There are 6 possible outcomes when it comes to rolling a die. If i already have 
 #### What is the probability of having a 7, knowing for sure that I will roll a 2?
 There are 6 possible outcomes when it comes to rolling two dice. If I already know i will roll a 2.
 
+Here is a picture that shows all of the possible outcomes:
+
+![](https://gyazo.com/623c7273669a505f75bc3117f1ff168d.png)
+
 ## What is the probability of a random integer being divisible by 5?
 Every fifth number is divisible by 5 as they are all in the 5 times table, so the probability in question is 1/5. The numeric answeris plausible and actually correct; but the idea of selecting a random integer needs to be explained in more detail. These are 5 equivalence classes 0, 1, 2, 3, 4 and modulo 5 (these are the remainders of division by 5.) All events of selecting one of them are very equiprobable, so much that each has the probability of 1/5. The problem of picking one equivalence class out of 5 is the fact is is is not the same as the one we need to solve which will require us to pick select a member of an infinite set. Additionally, if all integers are equiprobable, then selecting one will give us the probability of 0. Although this is useful it does not answer the question fully.
 
 Normally, randomly picking an integer is only possible if it is coming from an infinite set; so we always select from an infinite set but do this repeatedly each time selecting from a bigger set. Here is a better representation of it:
 
-![](https://gyazo.com/66909cf7342cb633ed412fa746f05adb)
+![](https://gyazo.com/66909cf7342cb633ed412fa746f05adb.png)
+
+Aditionally this screenshot will demonstrate how using this definition can answer our problem: 
+
+![](https://gyazo.com/15849c8cb0193fe30989cc035111152a.png)
+
+
+
+
+
 
 
 
