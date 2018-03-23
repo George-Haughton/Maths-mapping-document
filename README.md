@@ -41,15 +41,20 @@ Lets take the example that you have been asked to give the probabilty of a 5 bei
 There are 36 possible outcomes when it comes to rolling two die. For each of the possible outcomes add the two numbers up and count how many times it is equal to seven; after doing this you will realize there are 6 times, both numbers are equal to 7. This being said if there are 6 outcomes that add up to 7, and there are 36 possible outcomes the probability of you rolling a 7 on two dic will be 6/36, simplified down to 1/6.
 
 #### What is the probability of having having at least one 2 when rolling two dice?
-There are 36 possible outcomes when it comes to rolling two dice.. First count how many times after I roll the two die that at least one of the two number would be a 2. There is 11 possible outcomes that will contain at least one 2. Now we know this we can say that the possibility of rolling two die and one of them being 2 is 11/36.
+There are 36 possible outcomes when it comes to rolling two dice. First count how many times after I roll the two die that at least one of the two numbers will be a 2. There is 11 possible outcomes that will contain at least one 2. Now we know this we can say that the possibility of rolling two die and one of them being 2 is 11/36.
 
 #### What is the probability of having 7 after rolling a 2?
-There are 6 possible outcomes when it comes to rolling a die. If i already have a 2 and i need to get to seven i will need to count how many of the 6 outcomes, when added onto 2 will make 7. There is only one outcome that will help equal 7 and this is 5. Knowing this the possibility of rolling of having 7 after i have just roled a 2 is 1/6.
+There are 6 possible outcomes when it comes to rolling a die. If i already have a 2 and i need to get to seven i will need to count how many of the 6 outcomes, when added onto 2 will make 7. There is only one outcome that will help equal 7 and this is 5. Knowing this, the possibility of rolling of having 7 after i have just roled a 2 is 1/6.
 
 #### What is the probability of having a 7, knowing for sure that I will roll a 2?
 There are 6 possible outcomes when it comes to rolling two dice. If I already know i will roll a 2.
 
+## What is the probability of a random integer being divisible by 5?
+Every fifth number is divisible by 5 as they are all in the 5 times table, so the probability in question is 1/5. The numeric answeris plausible and actually correct; but the idea of selecting a random integer needs to be explained in more detail. These are 5 equivalence classes 0, 1, 2, 3, 4 and modulo 5 (these are the remainders of division by 5.) All events of selecting one of them are very equiprobable, so much that each has the probability of 1/5. The problem of picking one equivalence class out of 5 is the fact is is is not the same as the one we need to solve which will require us to pick select a member of an infinite set. Additionally, if all integers are equiprobable, then selecting one will give us the probability of 0. Although this is useful it does not answer the question fully.
 
+Normally, randomly picking an integer is only possible if it is coming from an infinite set; so we always select from an infinite set but do this repeatedly each time selecting from a bigger set. Here is a better representation of it:
+
+![](https://gyazo.com/66909cf7342cb633ed412fa746f05adb)
 
 
 
