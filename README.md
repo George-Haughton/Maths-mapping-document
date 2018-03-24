@@ -109,7 +109,7 @@ Then use the Pythagorean Theorem to find the length of the third side, which we 
  
  So if you need to find the point that is exactlty in the middle of two other points, all you need to do is average the x-values and the y-values. For example if we take (-1, 2) and (3, 6) and use the Midpoint formula it will look something like this: 
  
- ![](https://gyazo.com/76313e6a9d3d96dc873e5a2f935f2348.png)
+ ![](https://gyazo.com/e11908eed4fa264542e38c9179c7a4bf.png)
  
  As you can see from the formula the Midpoint between (-1, 2) and (3, 6) is (1, -2).
                                                                                                           
