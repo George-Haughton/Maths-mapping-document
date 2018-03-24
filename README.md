@@ -64,19 +64,44 @@ Aditionally this screenshot will demonstrate how using this definition can answe
 
 ![](https://gyazo.com/15849c8cb0193fe30989cc035111152a.png)
 
+## Co-ordinate geometry
+Co-ordinate geometry can seem daunting if you dont fully understand it. There are alot of formulas and different definitions you need to get to grips with. I am going to explain each definition and formula to help you better understand them all. Parallel lines, this is where two lines both have the exact same slope and different y-intercept, here is an example of two Paralell lines:
 
+![](https://gyazo.com/19ee05acaba30694d4f9a82e862a3360.png)
 
+Next we have Perpendicular lines these are two lines that both make a 90 degree angle, if their slopes are negative reciprocals. As you can see in the picture below, lines M and B would be the Perpendicular lines as they make the 90 degree angle.
 
+![](https://gyazo.com/7d3bb59f6c2af25b657d6f6ad36cb7bf.png)
 
+A Parallelogram is a quadrilalteral shape that has two pars of Parallel lines. As you can see lines A and B are the first set of Parallel lines and D and C are the second set, these two together create the Parallelogram.
 
+![](https://gyazo.com/2ebd65ec1c8c96fced77d2dbb69df077.png)
 
+Now we have a Rectangle which everyone can easily identify, as it has four right angles and is also a quadrilateral. Two of the four lines will be equal to one another and the same with the other two lines. I will add an example of a rectangle just as reference.
 
+![](https://gyazo.com/c0826d305a277877a41aee6cbe0c4121.png)
 
+Rhombus, again this is a quadrilateral but instead of four right angles like the Rectangle it has four equal sides and can be described as a diamond.
 
+![](https://gyazo.com/ed1abe072ca1b75260bc336f29eb225d.png)
 
+Lastly for the shapes, we have the simple and the very well known, Square. Unlike the Rhombus and Rectangle it does not just have four right angles or just four equal sides it has both; a completel symmetrical shape.
 
+![](https://gyazo.com/969db51a4a60d7d8647322adb83875f9.png)
 
+Now we move onto formulas. Firstly we are going to look at the Slope formula which can be used to fine the Slope of a line that passes through two points. For example if we take two points such as (5, 4) and (8, 6) and using the formula m = y2-y1/x2-x1. Putting in our number sthat in this case would be 6 being our y2 and 4 being our y1 which gives us 2 and then 8 being x2 and 5 being x1. This gives us 6-4/8-5 which will simplify to 2/3 so the slope of this line would be two thirds, which is m = 2/3.
 
+![](https://gyazo.com/e2467c4e10d2b72e1cc3f89720f8231d.png)
 
+Next we have the Distance formula which is used to find the disance between two points (x1, y1) and (x2, y2. So for example lets say we are trying to find the difference between (2, 1) and (1, 5) we can draw the lines that form a right-angled triangle, using the points as thee two corners, then we will need to find the lengths of the sides and to do this we will need to subtract the x-values and the y-values. 
+
+![](https://gyazo.com/2da08963fa800c14a1ed5bf975c0c64c.png)
+
+Then use the Pythagorean Theorem to find the length of the third side, which we also know as the hypotenuse of the triangle. Here is is being put to use:
+
+![](https://gyazo.com/12c8f1557f025aba299b757cdb2533bd.png)
+ 
+ As you can see from the picture after using Pythagorean Theorem we get the answer 5. So the distance between (2, 1) and (1, 5) is 5.
+                                                                                                          
 
 
