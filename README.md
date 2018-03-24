@@ -102,6 +102,16 @@ Then use the Pythagorean Theorem to find the length of the third side, which we 
 ![](https://gyazo.com/12c8f1557f025aba299b757cdb2533bd.png)
  
  As you can see from the picture after using Pythagorean Theorem we get the answer 5. So the distance between (2, 1) and (1, 5) is 5.
+ 
+ Lastly, we are going to look at the Midpoint formula this formual as in the name is used to find the Midpoint of two points. 
+ 
+ ![](https://gyazo.com/7c6a4e432af92384b18517242ae56417.png) 
+ 
+ So if you need to find the point that is exactlty in the middle of two other points, all you need to do is average the x-values and the y-values. For example if we take (-1, 2) and (3, 6) and use the Midpoint formula it will look something like this: 
+ 
+ ![](https://gyazo.com/76313e6a9d3d96dc873e5a2f935f2348.png)
+ 
+ As you can see from the formula the Midpoint between (-1, 2) and (3, 6) is (1, -2).
                                                                                                           
 
 
