@@ -46,9 +46,6 @@ There are 36 possible outcomes when it comes to rolling two dice. First count ho
 #### What is the probability of having 7 after rolling a 2?
 There are 6 possible outcomes when it comes to rolling a die. If i already have a 2 and i need to get to seven i will need to count how many of the 6 outcomes, when added onto 2 will make 7. There is only one outcome that will help equal 7 and this is 5. Knowing this, the possibility of rolling of having 7 after i have just roled a 2 is 1/6.
 
-#### What is the probability of having a 7, knowing for sure that I will roll a 2?
-There are 6 possible outcomes when it comes to rolling two dice. If I already know i will roll a 2.
-
 Here is a picture that shows all of the possible outcomes:
 
 ![](https://gyazo.com/623c7273669a505f75bc3117f1ff168d.png)
