@@ -111,6 +111,16 @@ So if you need to find the point that is exactlty in the middle of two other poi
 As you can see from the formula the Midpoint between (-1, 2) and (3, 6) is (1, -2).
  
 ## Rate of change 
+ROC is the speed at which a variable changes over a specific period of time. Rate of change is normally mentioned when referred to momentum and it can normally be represented as a ratio between a change in one variable relative to a corresponding change in another. Graphically, the rate of change is expressed as a slope if line.
+
+Here are a couple of exmaples:
+The question is f (x) = x3 + 10, and we are trying to work out the rate of change from 0 to 1. Firstly, we need to put the biggest number, this being 1 into the formula. So 1 x 1 x 1 + 10 = 11, then 0 x 0 x 0 + 10 = 10. Now we need to work out the answer of the question minus the inputs. So we have 11 – 10  = 1. So the rate of change of 1 – 0 = 1. 
+                                       1 – 0           
+Also the question asks for the answer to be put into binary, which for us is easy as the answer to the question was 1 which is already in binary.
+
+
+
+
 f (x) = x3 = 10
 CHANGE FROM 0 - 1
 1 x 1 x 1 + 10 = 11
