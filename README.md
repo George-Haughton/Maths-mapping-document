@@ -113,12 +113,10 @@ As you can see from the formula the Midpoint between (-1, 2) and (3, 6) is (1, -
 ## Rate of change 
 ROC is the speed at which a variable changes over a specific period of time. Rate of change is normally mentioned when referred to momentum and it can normally be represented as a ratio between a change in one variable relative to a corresponding change in another. Graphically, the rate of change is expressed as a slope if line.
 
-Here are a couple of exmaples:
-The question is f (x) = x3 + 10, and we are trying to work out the rate of change from 0 to 1. Firstly, we need to put the biggest number, this being 1 into the formula. So 1 x 1 x 1 + 10 = 11, then 0 x 0 x 0 + 10 = 10. Now we need to work out the answer of the question minus the inputs. So we have 11 – 10  = 1. So the rate of change of 1 – 0 = 1. 
-                                       1 – 0           
-Also the question asks for the answer to be put into binary, which for us is easy as the answer to the question was 1 which is already in binary.
+Here are a couple of examples:
+The question is f (x) = x3 + 10, and we are trying to work out the rate of change from 0 to 1. Firstly, we need to put the biggest number, this being 1 into the formula. So 1 x 1 x 1 + 10 = 11, then 0 x 0 x 0 + 10 = 10. Now we need to work out the answer of the question minus the inputs. So we have 11 – 10/ 1 - 0  = 1. So the rate of change of 1 – 0 = 1. Also the question asks for the answer to be put into binary, which for us is easy as the answer to the question was 1 which is already in binary.
 
-
+Another example is if the question is F (x) = 3x3 + 2x2 + 20x + 100. Again we will need to put the biggest number into the formula first which in this case is 16. So we do 16 x 16 x 16 which = 4096, then 4096 x 4096 
 
 
 f (x) = x3 = 10
@@ -135,6 +133,119 @@ turn shape into rectangles and calculate the base x height because the normal sh
 explain the exmaples in your own words
  
 ## Vector 
+A Vector has to have two distinguishable quantities: a direction and a magnitude. Without a direction it is not a Vector but a Scalar and if u give a Scalar a direction it becomes a Vector. Most commonly Vectors as represented by an arrow which is perfect as you can see the direction and the magnitude (which is the length of the arrow) very clearly. 
+
+We can create many shapes using Vectors, such as triangles, squares and rectangles and I have created an Algorthm that when told to will create shapes using Vectors. As a reference here is the code:
+
+<html>
+<body>
+
+<canvas id="myCanvas" width="300" height="150" style="border:1px solid #d3d3d3;"></canvas>
+
+<br>
+<button onclick="move(1)">LEFT</button>
+<button onclick="move(2)">UP</button>
+<button onclick="move(3)">DOWN</button>
+<button onclick="move(4)">RIGHT</button>
+<br>
+<button onclick="move(5)">DIAGONAL RIGHT DOWN</button>
+<button onclick="move(6)">DIAGONAL RIGHT UP</button>
+<br>
+<button onclick="move(7)">DIAGONAL LEFT DOWN</button>
+<button onclick="move(8)">DIAGONAL LEFT UP</button>
+<br>
+<button onclick="shape()">SHAPE?</button>
+
+
+<script>
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+ctx.beginPath();
+
+var curX=parseInt(prompt("Please enter the initial X"));;
+var curY=parseInt(prompt("Please enter the initial Y"));;
+
+function move(dir){
+var mag = parseInt(prompt("Please enter the magnitude"));
+
+if(dir==1){
+  //left
+  ctx.moveTo(curX, curY);
+  curX = curX-mag;
+  ctx.lineTo(curX, curY);  
+  alert("Vector Direction: Left / Vector Magnitude: "+mag);
+}else if(dir==2){
+  //up
+  ctx.moveTo(curX, curY);
+  curY = curY-mag;
+  ctx.lineTo(curX, curY);  
+  alert("Vector Direction: Up / Vector Magnitude: "+mag);
+}else if(dir==3){
+  //down
+  ctx.moveTo(curX, curY);
+  curY = curY+mag;
+  ctx.lineTo(curX, curY);  
+  alert("Vector Direction: Down / Vector Magnitude: "+mag);
+}else if(dir==4){
+  //right
+  ctx.moveTo(curX, curY);
+  curX = curX+mag;
+  ctx.lineTo(curX, curY);  
+  alert("Vector Direction: Right / Vector Magnitude: "+mag);
+}else if(dir==5){
+  //diagonal right down
+  ctx.moveTo(curX, curY);
+  curX = curX+mag/2;
+  curY = curY+mag/2;
+  ctx.lineTo(curX, curY);  
+  alert("Vector Direction: Diagonal Right Down / Vector Magnitude: "+mag);
+}else if(dir==6){
+  //diagonal right up
+  ctx.moveTo(curX, curY);
+  curX = curX+mag/2;
+  curY = curY-mag/2;
+  ctx.lineTo(curX, curY);  
+  alert("Vector Direction: Diagonal Right Up / Vector Magnitude: "+mag);
+}else if(dir==7){
+  //diagonal left down
+  ctx.moveTo(curX, curY);
+  curX = curX-mag/2;
+  curY = curY+mag/2;
+  ctx.lineTo(curX, curY);  
+  alert("Vector Direction: Diagonal Left Down / Vector Magnitude: "+mag);
+}else if(dir==8){
+  //diagonal left up
+  ctx.moveTo(curX, curY);
+  curX = curX-mag/2;
+  curY = curY-mag/2;
+  ctx.lineTo(curX, curY);  
+  alert("Vector Direction: Diagonal Left Up / Vector Magnitude: "+mag);
+}
+
+ctx.stroke();
+
+}
+
+function shape(){
+  var shape = prompt("Is this a shape Y/N?");
+
+  if(shape=='Y'){
+      prompt("What shape?");
+  }else {
+      alert("Keep drawing!");
+  }
+}
+
+</script>
+
+</body>
+</html>
+
+Additionally, here is a screenshot of a upside down triangle I made using my Algorithm:
+
+![](
+
+
 what is a vector 
 use the code 
 improve the code by identifying the shape and scaling the shapw 
