@@ -128,6 +128,7 @@ in binary = 1
 explain it
  
 ## Integral Calculus 
+This involves summing up infinitesimally small portions of a mathmatical expression to more commonly find the next higher dimension or the area. If a given shape is too complicated we use Integral calculus to calculate the shapes area and next higher dimension.
  
 turn shape into rectangles and calculate the base x height because the normal shape is too complivated give picture of formula and examples
 explain the exmaples in your own words
@@ -246,9 +247,6 @@ Additionally, here is a screenshot of a upside down triangle I made using my Alg
 ![](
 
 
-what is a vector 
-use the code 
-improve the code by identifying the shape and scaling the shapw 
  
                                                                                                           
 
