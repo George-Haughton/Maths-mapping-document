@@ -130,16 +130,14 @@ This involves summing up infinitesimally small portions of a mathmatical express
 
 Here are the main formulas that we use when going about calculating the area of curved lines and using Integral calculus:
 
-![](https://raw.githubusercontent.com/matthewsides/Mathematics/master/IC_MF.png)
+
 
 
 The symbol ∫ is used to describe the finding of an intergral or intergals which is called intergration. A and B are shown on each side of the ∫ symbol to represent that we would like to find the area from A to B. This helps when looking at the shape we are trying to find the area of as we can simply label two points A and B. Curved lines can be difficult to answer and this is why we use Higher derivative to help us. Higher derivative is a way of making a complex or hard function easier/simpler. A simple function is most commonly referred to as a linear function as it is seen as a straight line on a graph but again when it becomes curved we use Higher derivative to simplify the function. In essence by multiplying the function against the derivative of the function within the shape we can create an infinite area of rectangles to find the area of the shape using the information we already know such as the formula for the area of the rectangle.
 
 Here are a couple examples of integral calculus being used:
 
-![](https://raw.githubusercontent.com/matthewsides/Mathematics/master/IC_E1.png)
 
-![](https://raw.githubusercontent.com/matthewsides/Mathematics/master/IC_E2.png)
  
 ## Vector 
 A Vector has to have two distinguishable quantities: a direction and a magnitude. Without a direction it is not a Vector but a Scalar and if u give a Scalar a direction it becomes a Vector. Most commonly Vectors as represented by an arrow which is perfect as you can see the direction and the magnitude (which is the length of the arrow) very clearly. 
