@@ -117,13 +117,14 @@ Here are a couple of examples:
 The question is f (x) = x3 + 10, and we are trying to work out the rate of change from 0 to 1. Firstly, we need to put the biggest number, this being 1 into the formula. So 1 x 1 x 1 + 10 = 11, then 0 x 0 x 0 + 10 = 10. Now we need to work out the answer of the question minus the inputs. So we have 11 – 10/ 1 - 0  = 1. So the rate of change of 1 – 0 = 1. Also the question asks for the answer to be put into binary, which for us is easy as the answer to the question was 1 which is already in binary.
 
 Another example is if the question is F (x) = 3x3 + 2x2 + 20x + 100. Again we will need to put the biggest number into the formula first which in this case is 16. So we do 16 x 16 x 16 which = 4096, then 4096 x 4096 
-
+```
 f (x) = x3 = 10
 CHANGE FROM 0 - 1
 1 x 1 x 1 + 10 = 11
 0 x 0 x 0 + 10= 10
 11 - 10/ 1 - 0 = 1 
 in binary = 1
+```
  
 ## Integral Calculus 
 This involves summing up infinitesimally small portions of a mathmatical expression to more commonly find the next higher dimension or the area. If a given shape is too complicated we use Integral calculus to calculate the shapes area and next higher dimension. Additionally, when the shape is too complicated we use Integral Calculus with the two points a and b (normally 2 points in a graph) and then use it to calculate the area of a and b which is called the area of a function.
