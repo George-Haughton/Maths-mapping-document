@@ -138,6 +138,7 @@ A Vector has to have two distinguishable quantities: a direction and a magnitude
 
 We can create many shapes using Vectors, such as triangles, squares and rectangles and I have created an Algorthm that when told to will create shapes using Vectors. As a reference here is the code:
 
+```
 <html>
 <body>
 
@@ -241,7 +242,7 @@ function shape(){
 
 </body>
 </html>
-
+```
 
 
 Additionally, here is a screenshot of a upside down triangle I made using my Algorithm:
