@@ -118,20 +118,19 @@ The question is f (x) = x3 + 10, and we are trying to work out the rate of chang
 
 Another example is if the question is F (x) = 3x3 + 2x2 + 20x + 100. Again we will need to put the biggest number into the formula first which in this case is 16. So we do 16 x 16 x 16 which = 4096, then 4096 x 4096 
 
-
 f (x) = x3 = 10
 CHANGE FROM 0 - 1
 1 x 1 x 1 + 10 = 11
 0 x 0 x 0 + 10= 10
 11 - 10/ 1 - 0 = 1 
 in binary = 1
-explain it
  
 ## Integral Calculus 
-This involves summing up infinitesimally small portions of a mathmatical expression to more commonly find the next higher dimension or the area. If a given shape is too complicated we use Integral calculus to calculate the shapes area and next higher dimension.
- 
-turn shape into rectangles and calculate the base x height because the normal shape is too complivated give picture of formula and examples
-explain the exmaples in your own words
+This involves summing up infinitesimally small portions of a mathmatical expression to more commonly find the next higher dimension or the area. If a given shape is too complicated we use Integral calculus to calculate the shapes area and next higher dimension. Additionally, when the shape is too complicated we use Integral Calculus with the two points a and b (normally 2 points in a graph) and then use it to calculate the area of a and b which is called the area of a function.
+
+The symbol ∫ is used to describe the finding of an intergral or intergals which is called intergration. A and B are shown on each side of the ∫ symbol to represent that we would like to find the area from A to B. This helps when looking at the shape we are trying to find the area of as we can simply label two points A and B. Curved lines can be difficult to answer and this is why we use Higher derivative to help us. Higher derivative is a way of making a complex or hard function easier/simpler. A simple function is most commonly referred to as a linear function as it is seen as a straight line on a graph but again when it becomes curved we use Higher derivative to simplify the function. In essence by multiplying the function against the derivative of the function within the shape we can create an infinite area of rectangles to find the area of the shape using the information we already know such as the formula for the area of the rectangle.
+
+![](https://raw.githubusercontent.com/matthewsides/Mathematics/master/IC_E1.png)
  
 ## Vector 
 A Vector has to have two distinguishable quantities: a direction and a magnitude. Without a direction it is not a Vector but a Scalar and if u give a Scalar a direction it becomes a Vector. Most commonly Vectors as represented by an arrow which is perfect as you can see the direction and the magnitude (which is the length of the arrow) very clearly. 
@@ -250,7 +249,29 @@ Additionally, here is a screenshot of a upside down triangle I made using my Alg
 ![](
 
 
- 
-                                                                                                          
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          
 
